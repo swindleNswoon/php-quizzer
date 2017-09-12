@@ -1,0 +1,32 @@
+body {
+	font-family: arial;
+	font-size: 15px;
+	line-height: 1.6em;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	margin: 0 auto;
+	overflow: auto;
+	width: 60%;
+}
+
+header {
+	border-bottom: 3px #f4f4f4 solid;
+}
+
+footer {
+	border-top: 3px #f4f4f4 solid;
+	text-align: center;
+}
+
+main {
+	padding-bottom: 20px;
+}
