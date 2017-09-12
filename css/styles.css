@@ -25,8 +25,17 @@ header {
 footer {
 	border-top: 3px #f4f4f4 solid;
 	text-align: center;
+	padding-top: 5px;
 }
 
 main {
 	padding-bottom: 20px;
+}
+
+a.start {
+	display: inline-block;
+	color: #fff;
+	background: #00cc33;
+	border: 1px dotted #ccc;
+	padding: 6px 13px;
 }
